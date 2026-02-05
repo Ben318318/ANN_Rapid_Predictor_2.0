@@ -1,0 +1,10 @@
+{
+    "norm_ssd_mean": null,
+    "norm_ssd_var": null,
+    "norm_ec_mean": -77.10073397690932,
+    "norm_ec_var": 102074.50128351599,
+    "norm_pw_mean": 0.2630237173816895,
+    "norm_pw_var": 0.01993097804998345,
+    "norm_fsd_mean": null,
+    "norm_fsd_var": null
+}

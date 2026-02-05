@@ -1,0 +1,18 @@
+{
+    "regression": 1,
+    "num_ecs": 19,
+    "num_fsds": 19,
+    "num_ssds": 19,
+    "num_layers": 2,
+    "neurons": 394,
+    "dropout": 0,
+    "act_func": "relu",
+    "l_rate": 0.001,
+    "epochs": 10000,
+    "batch_size": 64,
+    "train_ds": "./datasets/extra_init_site_info/ds_dti_reg_ssd_6_19_stand.csv",
+    "val_ds": "./datasets/extra_init_site_info/ds_dti_reg_ssd_6_19_stand.csv",
+    "cnn_filters": null,
+    "cnn_kernels": null,
+    "cnn_pooling": null
+}
